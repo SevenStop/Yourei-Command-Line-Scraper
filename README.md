@@ -13,6 +13,7 @@ python Main.py output 四面楚歌 2
 
 
 functions:
+
 disp (zero arguments but they must be filled) - display full passages with the setences
 
 collect (2 arguments, the expression and number of pages to index) - collects data into a data structure and displays the indicated pages of data
